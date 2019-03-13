@@ -1,1 +1,1 @@
-union-poker-contract
+Poker Chips
